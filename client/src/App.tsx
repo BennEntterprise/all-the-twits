@@ -1,9 +1,17 @@
 import React, { useState } from 'react'
 import './App.css'
 
-import sampleData from './data/sampleTweets.json'
+import tweetBundle from './data/sampleTweets.json'
 import senators from './data/senators.json'
 import house from './data/house.json'
+import TweetCard from './components/TweetCard/TweetCard'
+
+interface ITweet {
+  author_id: string
+  text: string
+  created_at: string
+  id: string
+}
 function App() {
   const [liveDataPull, setLiveDataPull] = useState(false)
   const [userToSearch, setUserToSearch] = useState('')
@@ -20,10 +28,7 @@ function App() {
   const getLatestTweets = () => {
     alert('Ok Searching for ' + userToSearch)
   }
-
-  console.log(sampleData.data)
-  const tweets = sampleData.data
-
+  const tweets: ITweet[] = tweetBundle.data
   return (
     <div className='App'>
       <p>Type the User to Search (without @ sign)</p>
@@ -36,12 +41,29 @@ function App() {
       </div>
 
       {tweets.map((tweet: any) => {
+        let date = tweet.created_at.split('_')
         return (
-          <p key={tweet.id}>
-            {tweet.created_at}:{tweet.text}
-          </p>
+          <TweetCard
+            key={tweet.id}
+            userId={tweet.author_id}
+            name={tweet.author_id}
+            handle='@aoc'
+            createDate={new Date().toString()}
+            createTime={new Date().getTime()}
+            body={tweet.text}
+          />
         )
       })}
+      <div style={{ position: 'relative' }}>
+        <TweetCard
+          userId='123'
+          name='kyle'
+          handle='@kyleBennett1123'
+          createDate={new Date().toString()}
+          createTime={new Date().getTime()}
+          body='This is the body'
+        />
+      </div>
     </div>
   )
 }

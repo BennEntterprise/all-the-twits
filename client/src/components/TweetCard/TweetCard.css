@@ -1,0 +1,45 @@
+.tweet-card {
+  background-color: red;
+  width: 20%;
+  position: relative;
+  left: 40%;
+  min-height: 125px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.tweet-identity {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.tweet-identity .profile-img {
+  width: 20%;
+  border: 3px solid green;
+}
+.tweet-identity .profile-text {
+  border: 3px solid blue;
+  flex-grow: 1;
+}
+
+.tweet-body {
+  border: 1px solid black;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.profile-text-first-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.profile-text-second-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

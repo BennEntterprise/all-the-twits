@@ -1,0 +1,394 @@
+[
+ {
+   "state": "Alabama",
+   "name": "Kay Ivey",
+   "party": "Republican",
+   "inauguration": "April 10, 2017",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Alaska",
+   "name": "Mike Dunleavy",
+   "party": "Republican",
+   "inauguration": "December 3, 2018",
+   "end_of_term": "2022"
+ },
+ {
+   "state": "Arizona",
+   "name": "Doug Ducey",
+   "party": "Republican",
+   "inauguration": "January 5, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Arkansas",
+   "name": "Asa Hutchinson",
+   "party": "Republican",
+   "inauguration": "January 13, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "California",
+   "name": "Gavin Newsom",
+   "party": "Democratic",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Colorado",
+   "name": "Jared Polis",
+   "party": "Democratic",
+   "inauguration": "January 8, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Connecticut",
+   "name": "Ned Lamont",
+   "party": "Democratic",
+   "inauguration": "January 9, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Delaware",
+   "name": "John Carney",
+   "party": "Democratic",
+   "inauguration": "January 17, 2017",
+   "end_of_term": "2025 (term limits)"
+ },
+ {
+   "state": "Florida",
+   "name": "Ron DeSantis",
+   "party": "Republican",
+   "inauguration": "January 8, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Georgia",
+   "name": "Brian Kemp",
+   "party": "Republican",
+   "inauguration": "January 14, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Hawaii",
+   "name": "David Ige",
+   "party": "Democratic",
+   "inauguration": "December 1, 2014",
+   "end_of_term": "2022 (term limits)"
+ },
+ {
+   "state": "Idaho",
+   "name": "Brad Little",
+   "party": "Republican",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Illinois",
+   "name": "J. B. Pritzker",
+   "party": "Democratic",
+   "inauguration": "January 14, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Indiana",
+   "name": "Eric Holcomb",
+   "party": "Republican",
+   "inauguration": "January 9, 2017",
+   "end_of_term": "2025 (term limits)"
+ },
+ {
+   "state": "Iowa",
+   "name": "Kim Reynolds",
+   "party": "Republican",
+   "inauguration": "May 24, 2017",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Kansas",
+   "name": "Laura Kelly",
+   "party": "Democratic",
+   "inauguration": "January 14, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Kentucky",
+   "name": "Andy Beshear",
+   "party": "Democratic",
+   "inauguration": "December 10, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Louisiana",
+   "name": "John Bel Edwards",
+   "party": "Democratic",
+   "inauguration": "January 11, 2016",
+   "end_of_term": "2024 (term limits)"
+ },
+ {
+   "state": "Maine",
+   "name": "Janet Mills",
+   "party": "Democratic",
+   "inauguration": "January 2, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Maryland",
+   "name": "Larry Hogan",
+   "party": "Republican",
+   "inauguration": "January 21, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Massachusetts",
+   "name": "Charlie Baker",
+   "party": "Republican",
+   "inauguration": "January 8, 2015",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Michigan",
+   "name": "Gretchen Whitmer",
+   "party": "Democratic",
+   "inauguration": "January 1, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Minnesota",
+   "name": "Tim Walz",
+   "party": "Democratic–Farmer–Labor",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Mississippi",
+   "name": "Tate Reeves",
+   "party": "Republican",
+   "inauguration": "January 14, 2020",
+   "end_of_term": "2024"
+ },
+ {
+   "state": "Missouri",
+   "name": "Mike Parson",
+   "party": "Republican",
+   "inauguration": "June 1, 2018",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "Montana",
+   "name": "Greg Gianforte",
+   "party": "Republican",
+   "inauguration": "January 4, 2021",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "Nebraska",
+   "name": "Pete Ricketts",
+   "party": "Republican",
+   "inauguration": "January 8, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Nevada",
+   "name": "Steve Sisolak",
+   "party": "Democratic",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "New Hampshire",
+   "name": "Chris Sununu",
+   "party": "Republican",
+   "inauguration": "January 5, 2017",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "New Jersey",
+   "name": "Phil Murphy",
+   "party": "Democratic",
+   "inauguration": "January 16, 2018",
+   "end_of_term": "2022"
+ },
+ {
+   "state": "New Mexico",
+   "name": "Michelle Lujan Grisham",
+   "party": "Democratic",
+   "inauguration": "January 1, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "New York",
+   "name": "Andrew Cuomo",
+   "party": "Democratic",
+   "inauguration": "January 1, 2011",
+   "end_of_term": "2022[1]"
+ },
+ {
+   "state": "North Carolina",
+   "name": "Roy Cooper",
+   "party": "Democratic",
+   "inauguration": "January 1, 2017",
+   "end_of_term": "2025 (term limits)"
+ },
+ {
+   "state": "North Dakota",
+   "name": "Doug Burgum",
+   "party": "Republican",
+   "inauguration": "December 15, 2016",
+   "end_of_term": "2024"
+ },
+ {
+   "state": "Ohio",
+   "name": "Mike DeWine",
+   "party": "Republican",
+   "inauguration": "January 14, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Oklahoma",
+   "name": "Kevin Stitt",
+   "party": "Republican",
+   "inauguration": "January 14, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Oregon",
+   "name": "Kate Brown",
+   "party": "Democratic",
+   "inauguration": "February 18, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Pennsylvania",
+   "name": "Tom Wolf",
+   "party": "Democratic",
+   "inauguration": "January 20, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Rhode Island",
+   "name": "Gina Raimondo",
+   "party": "Democratic",
+   "inauguration": "January 6, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "South Carolina",
+   "name": "Henry McMaster",
+   "party": "Republican",
+   "inauguration": "January 24, 2017",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "South Dakota",
+   "name": "Kristi Noem",
+   "party": "Republican",
+   "inauguration": "January 5, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Tennessee",
+   "name": "Bill Lee",
+   "party": "Republican",
+   "inauguration": "January 19, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Texas",
+   "name": "Greg Abbott",
+   "party": "Republican",
+   "inauguration": "January 20, 2015",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Utah",
+   "name": "Spencer Cox",
+   "party": "Republican",
+   "inauguration": "January 4, 2021",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "Vermont",
+   "name": "Phil Scott",
+   "party": "Republican",
+   "inauguration": "January 5, 2017",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Virginia",
+   "name": "Ralph Northam",
+   "party": "Democratic",
+   "inauguration": "January 13, 2018",
+   "end_of_term": "2022 (term limits)"
+ },
+ {
+   "state": "Washington",
+   "name": "Jay Inslee",
+   "party": "Democratic",
+   "inauguration": "January 16, 2013",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "West Virginia",
+   "name": "Jim Justice",
+   "party": "Republican\n[note 1]",
+   "inauguration": "January 16, 2017",
+   "end_of_term": "2025 (term limits)"
+ },
+ {
+   "state": "Wisconsin",
+   "name": "Tony Evers",
+   "party": "Democratic",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Wyoming",
+   "name": "Mark Gordon",
+   "party": "Republican",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "American Samoa",
+   "name": "Lemanu Peleti Mauga",
+   "party": "Democratic\n[note 2]",
+   "inauguration": "January 3, 2021",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "Guam",
+   "name": "Lou Leon Guerrero",
+   "party": "Democratic",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "Northern Mariana Islands",
+   "name": "Ralph Torres",
+   "party": "Republican",
+   "inauguration": "December 29, 2015",
+   "end_of_term": "2023 (term limits)"
+ },
+ {
+   "state": "Puerto Rico",
+   "name": "Pedro Pierluisi",
+   "party": "New Progressive",
+   "inauguration": "January 2, 2021",
+   "end_of_term": "2025"
+ },
+ {
+   "state": "U.S. Virgin Islands",
+   "name": "Albert Bryan",
+   "party": "Democratic",
+   "inauguration": "January 7, 2019",
+   "end_of_term": "2023"
+ },
+ {
+   "state": "",
+   "name": "Muriel Bowser",
+   "party": "Democratic",
+   "inauguration": "January 2, 2015",
+   "end_of_term": "2023"ist"
+ }
+]
