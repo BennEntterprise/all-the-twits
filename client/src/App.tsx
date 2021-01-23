@@ -2,14 +2,21 @@ import React, { useState } from 'react'
 import './App.css'
 
 import sampleData from './data/sampleTweets.json'
-
+import senators from './data/senators.json'
+import house from './data/house.json'
 function App() {
   const [liveDataPull, setLiveDataPull] = useState(false)
   const [userToSearch, setUserToSearch] = useState('')
 
   // 1 Make Request to Twitter API to Obtain the ID Of the Target User
+  const usernames = ['aoc', 'tedcruz']
+  const getIdsQuery = `https://api.twitter.com/2/users/by?usernames=${usernames.join(
+    ','
+  )}`
   // 2 Get the latest tweets from each user
-
+  console.log(getIdsQuery)
+  console.log(senators)
+  console.log(house)
   const getLatestTweets = () => {
     alert('Ok Searching for ' + userToSearch)
   }
@@ -30,7 +37,7 @@ function App() {
 
       {tweets.map((tweet: any) => {
         return (
-          <p>
+          <p key={tweet.id}>
             {tweet.created_at}:{tweet.text}
           </p>
         )
