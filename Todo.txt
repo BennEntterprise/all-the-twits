@@ -1,0 +1,4 @@
+(A) 2021-01-27 Extract Data to Server Side, create routes to access it
+(B) 2021-01-27 Practice Rading the Senator file, making a change, then writing a new file   
+(C) 2021-01-27  Condense Twitter Names to a single array   
+(D) 2021-01-27  Lookup Twitter names, Ammend Senator Profiles with userIDs   
