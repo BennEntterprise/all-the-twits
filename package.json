@@ -11,8 +11,9 @@
     "@types/node": "^14.14.22"
   },
   "scripts": {
-    "dev-client": "cd client && npm run start",
     "start": "node ./serverBuild/server.js",
+    "dev-client": "cd client && npm run start",
+    "heroku-prebuild": "npm i --prefix client",
     "build-project": "npm run build-server && npm run build-client",
     "build-client": "cd client && npm run build",
     "build-server": "tsc"
