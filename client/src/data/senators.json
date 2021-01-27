@@ -7,6 +7,10 @@
     "address": "709 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5653",
     "email": "https://www.baldwin.senate.gov/feedback",
+    "social_handles": {
+      "twitter_professional": "SenatorBaldwin",
+      "twitter_personal": "tammybaldwin"
+    },
     "website": "http://www.baldwin.senate.gov/",
     "class": "Class I"
   },
@@ -18,6 +22,10 @@
     "address": "307 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6441",
     "email": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+    "social_handles": {
+      "twitter_professional": "SenJohnBarrasso",
+      "twitter_personal": "barrassoforwyo"
+    },
     "website": "http://www.barrasso.senate.gov",
     "class": "Class I"
   },
@@ -29,6 +37,10 @@
     "address": "261 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5852",
     "email": "https://www.bennet.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "",
+      "twitter_personal": "SenatorBennet"
+    },
     "website": "http://www.bennet.senate.gov",
     "class": "Class III"
   },
@@ -40,6 +52,10 @@
     "address": "357 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3344",
     "email": "https://www.blackburn.senate.gov/email-me",
+    "social_handles": {
+      "twitter_professional": "MarshaBlackburn",
+      "twitter_personal": ""
+    },
     "website": "https://www.blackburn.senate.gov",
     "class": "Class I"
   },
@@ -51,6 +67,10 @@
     "address": "706 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2823",
     "email": "https://www.blumenthal.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenBlumenthal",
+      "twitter_personal": ""
+    },
     "website": "http://www.blumenthal.senate.gov",
     "class": "Class III"
   },
@@ -62,6 +82,10 @@
     "address": "260 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5721",
     "email": "https://www.blunt.senate.gov/public/index.cfm/contact-roy",
+    "social_handles": {
+      "twitter_professional": "RoyBlunt",
+      "twitter_personal": ""
+    },
     "website": "http://www.blunt.senate.gov",
     "class": "Class III"
   },
@@ -73,6 +97,10 @@
     "address": "717 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3224",
     "email": "https://www.booker.senate.gov/?p=contact",
+    "social_handles": {
+      "twitter_professional": "CoryBooker",
+      "twitter_personal": ""
+    },
     "website": "http://www.booker.senate.gov",
     "class": "Class II"
   },
@@ -84,6 +112,10 @@
     "address": "141 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4843",
     "email": "https://www.boozman.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "JohnBoozman",
+      "twitter_personal": ""
+    },
     "website": "http://www.boozman.senate.gov/",
     "class": "Class III"
   },
@@ -95,6 +127,10 @@
     "address": "374 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4814",
     "email": "http://www.braun.senate.gov/contact-mike",
+    "social_handles": {
+      "twitter_professional": "braun4indiana",
+      "twitter_personal": "SenatorBraun"
+    },
     "website": "https://www.braun.senate.gov",
     "class": "Class I"
   },
@@ -106,6 +142,10 @@
     "address": "503 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2315",
     "email": "http://www.brown.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenSherrodBrown",
+      "twitter_personal": ""
+    },
     "website": "http://www.brown.senate.gov/",
     "class": "Class I"
   },
@@ -117,6 +157,10 @@
     "address": "217 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3154",
     "email": "https://www.burr.senate.gov/contact/email",
+    "social_handles": {
+      "twitter_professional": "SenatorBurr",
+      "twitter_personal": ""
+    },
     "website": "http://www.burr.senate.gov",
     "class": "Class III"
   },
@@ -128,6 +172,10 @@
     "address": "511 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3441",
     "email": "http://www.cantwell.senate.gov/public/index.cfm/email-maria",
+    "social_handles": {
+      "twitter_professional": "SenatorCantwell",
+      "twitter_personal": "MariaCantwell"
+    },
     "website": "http://www.cantwell.senate.gov",
     "class": "Class I"
   },
@@ -139,6 +187,10 @@
     "address": "172 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6472",
     "email": "https://www.capito.senate.gov/contact/contact-shelley",
+    "social_handles": {
+      "twitter_professional": "SenCapito",
+      "twitter_personal": "CapitoforWV"
+    },
     "website": "http://www.capito.senate.gov",
     "class": "Class II"
   },
@@ -150,6 +202,10 @@
     "address": "509 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4524",
     "email": "http://www.cardin.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenatorCardin",
+      "twitter_personal": "BenCardinforMD"
+    },
     "website": "http://www.cardin.senate.gov/",
     "class": "Class I"
   },
@@ -161,6 +217,10 @@
     "address": "513 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2441",
     "email": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper",
+    "social_handles": {
+      "twitter_professional": "SenatorCarper",
+      "twitter_personal": "TomCarperforDE"
+    },
     "website": "http://www.carper.senate.gov",
     "class": "Class I"
   },
@@ -172,6 +232,10 @@
     "address": "393 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6324",
     "email": "https://www.casey.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenBobCasey",
+      "twitter_personal": "Bob_casey"
+    },
     "website": "http://www.casey.senate.gov/",
     "class": "Class I"
   },
@@ -183,6 +247,10 @@
     "address": "520 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5824",
     "email": "https://www.cassidy.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenBillCassidy",
+      "twitter_personal": ""
+    },
     "website": "http://www.cassidy.senate.gov",
     "class": "Class II"
   },
@@ -194,6 +262,10 @@
     "address": "413 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2523",
     "email": "http://www.collins.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenatorCollins",
+      "twitter_personal": ""
+    },
     "website": "http://www.collins.senate.gov",
     "class": "Class II"
   },
@@ -205,6 +277,10 @@
     "address": "218 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5042",
     "email": "https://www.coons.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenCoonsOffice",
+      "twitter_personal": ["ChrisCoons", "ChrisCoonsforDE"]
+    },
     "website": "http://www.coons.senate.gov/",
     "class": "Class II"
   },
@@ -216,6 +292,10 @@
     "address": "517 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2934",
     "email": "https://www.cornyn.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "",
+      "twitter_personal": ["JohnCornyn", "TeamCornyn"]
+    },
     "website": "http://www.cornyn.senate.gov/",
     "class": "Class II"
   },
@@ -227,6 +307,10 @@
     "address": "516 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3542",
     "email": "https://www.cortezmasto.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenCortezMasto",
+      "twitter_personal": "CatherineForNV"
+    },
     "website": "http://www.cortezmasto.senate.gov",
     "class": "Class III"
   },
@@ -238,6 +322,10 @@
     "address": "326 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2353",
     "email": "https://www.cotton.senate.gov/contact/contact-tom",
+    "social_handles": {
+      "twitter_professional": "SenTomCotton",
+      "twitter_personal": "TomCottonAR"
+    },
     "website": "http://www.cotton.senate.gov",
     "class": "Class II"
   },
@@ -249,6 +337,10 @@
     "address": "400 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2043",
     "email": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "social_handles": {
+      "twitter_professional": "SenKevinCramer",
+      "twitter_personal": "kevincramer"
+    },
     "website": "https://www.cramer.senate.gov",
     "class": "Class I"
   },
@@ -260,6 +352,10 @@
     "address": "239 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6142",
     "email": "https://www.crapo.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "MikeCrapo",
+      "twitter_personal": "crapoforsenate"
+    },
     "website": "http://www.crapo.senate.gov",
     "class": "Class III"
   },
@@ -271,6 +367,10 @@
     "address": "127A Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5922",
     "email": "https://www.cruz.senate.gov/?p=form&id=16",
+    "social_handles": {
+      "twitter_professional": "SenTedCruz",
+      "twitter_personal": "tedcruz"
+    },
     "website": "http://www.cruz.senate.gov",
     "class": "Class I"
   },
@@ -282,6 +382,10 @@
     "address": "320 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2651",
     "email": "https://www.daines.senate.gov/connect/email-steve",
+    "social_handles": {
+      "twitter_professional": "stevedaines",
+      "twitter_personal": "DainesforMT"
+    },
     "website": "http://www.daines.senate.gov",
     "class": "Class II"
   },
@@ -293,6 +397,10 @@
     "address": "524 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2854",
     "email": "https://www.duckworth.senate.gov/content/contact-senator",
+    "social_handles": {
+      "twitter_professional": "SenDuckworth",
+      "twitter_personal": ["TammyforIL", "tammyduckworth"]
+    },
     "website": "http://www.duckworth.senate.gov",
     "class": "Class III"
   },
@@ -304,6 +412,10 @@
     "address": "711 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2152",
     "email": "https://www.durbin.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenatorDurbin",
+      "twitter_personal": "DickDurbin"
+    },
     "website": "http://www.durbin.senate.gov",
     "class": "Class II",
     "leadership_position": "Whip"
@@ -316,6 +428,10 @@
     "address": "730 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3254",
     "email": "https://www.ernst.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "SenJoniErnst",
+      "twitter_personal": "Joniernst"
+    },
     "website": "http://www.ernst.senate.gov",
     "class": "Class II"
   },
@@ -327,6 +443,10 @@
     "address": "331 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3841",
     "email": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me",
+    "social_handles": {
+      "twitter_professional": "SenFeinstein",
+      "twitter_personal": "DianneFeinstein"
+    },
     "website": "http://www.feinstein.senate.gov",
     "class": "Class I"
   },
@@ -338,6 +458,10 @@
     "address": "454 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6551",
     "email": "http://www.fischer.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "SenatorFischer",
+      "twitter_personal": "DebFischerNE"
+    },
     "website": "http://www.fischer.senate.gov",
     "class": "Class I"
   },
@@ -349,6 +473,10 @@
     "address": "478 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4451",
     "email": "https://www.gillibrand.senate.gov/contact/email-me",
+    "social_handles": {
+      "twitter_professional": "gillibrandny",
+      "twitter_personal": "SenGillibrand"
+    },
     "website": "http://www.gillibrand.senate.gov",
     "class": "Class I"
   },
@@ -360,6 +488,10 @@
     "address": "290 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5972",
     "email": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
+    "social_handles": {
+      "twitter_professional": "LindseyGrahamSC",
+      "twitter_personal": ""
+    },
     "website": "http://www.lgraham.senate.gov/",
     "class": "Class II"
   },
@@ -371,6 +503,10 @@
     "address": "135 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3744",
     "email": "http://www.grassley.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": ["ChuckGrassley", "GrassleyPress"],
+      "twitter_personal": ""
+    },
     "website": "http://www.grassley.senate.gov",
     "class": "Class III",
     "leadership_position": "President Pro Tempore"
@@ -383,6 +519,10 @@
     "address": "B11 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4944",
     "email": "https://www.hagerty.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenatorHagerty",
+      "twitter_personal": "BillHagertyTN"
+    },
     "website": "https://www.hagerty.senate.gov",
     "class": "Class II"
   },
@@ -394,6 +534,10 @@
     "address": "324 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3324",
     "email": "https://www.hassan.senate.gov/content/contact-senator",
+    "social_handles": {
+      "twitter_professional": "SenatorHassan",
+      "twitter_personal": "Maggie_Hassan"
+    },
     "website": "http://www.hassan.senate.gov",
     "class": "Class III"
   },
@@ -405,6 +549,10 @@
     "address": "212 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6154",
     "email": "https://www.hawley.senate.gov/contact-senator-hawley",
+    "social_handles": {
+      "twitter_professional": "HawleyMO",
+      "twitter_personal": ""
+    },
     "website": "https://www.hawley.senate.gov",
     "class": "Class I"
   },
@@ -416,6 +564,10 @@
     "address": "303 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5521",
     "email": "http://www.heinrich.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "MartinHeinrich",
+      "twitter_personal": ["TeamHeinrich"]
+    },
     "website": "http://www.heinrich.senate.gov/",
     "class": "Class I"
   },
@@ -427,6 +579,10 @@
     "address": "B85 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5941",
     "email": "https://www.hickenlooper.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenatorHick",
+      "twitter_personal": "JohnHickenlooper"
+    },
     "website": "https://www.hickenlooper.senate.gov",
     "class": "Class II"
   },
@@ -438,6 +594,10 @@
     "address": "713 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6361",
     "email": "https://www.hirono.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "MazieHirono",
+      "twitter_personal": "mazieforhawaii"
+    },
     "website": "http://www.hirono.senate.gov/",
     "class": "Class I"
   },
@@ -449,6 +609,10 @@
     "address": "338 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2551",
     "email": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator",
+    "social_handles": {
+      "twitter_professional": "SenHohnHoven",
+      "twitter_personal": ""
+    },
     "website": "http://www.hoeven.senate.gov",
     "class": "Class III"
   },
@@ -460,6 +624,10 @@
     "address": "702 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5054",
     "email": "https://www.hydesmith.senate.gov/content/contact-senator",
+    "social_handles": {
+      "twitter_professional": "SenHydeSmith",
+      "twitter_personal": "cindyhydesmith"
+    },
     "website": "https://www.hydesmith.senate.gov/",
     "class": "Class II"
   },
@@ -471,6 +639,10 @@
     "address": "205 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4721",
     "email": "https://www.inhofe.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "JimInhofe",
+      "twitter_personal": "Inhofeforsenate"
+    },
     "website": "http://www.inhofe.senate.gov/",
     "class": "Class II"
   },
@@ -482,6 +654,10 @@
     "address": "328 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5323",
     "email": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+    "social_handles": {
+      "twitter_professional": "SenRonJohnson",
+      "twitter_personal": "RonJohnsonWI"
+    },
     "website": "http://www.ronjohnson.senate.gov/",
     "class": "Class III"
   },
@@ -493,6 +669,10 @@
     "address": "231 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4024",
     "email": "https://www.kaine.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "timkaine",
+      "twitter_personal": ""
+    },
     "website": "http://www.kaine.senate.gov/",
     "class": "Class I"
   },
@@ -504,6 +684,10 @@
     "address": "B40B Dirksen Senate Office Building Washington DC 20510",
     "phone": "202-224-2235",
     "email": "https://www.kelly.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenMarkKelly",
+      "twitter_personal": "CaptMarkKelly"
+    },
     "website": "https://www.kelly.senate.gov",
     "class": "Class III"
   },
@@ -515,6 +699,10 @@
     "address": "416 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4623",
     "email": "https://www.kennedy.senate.gov/public/email-me",
+    "social_handles": {
+      "twitter_professional": "SenJohnKennedy",
+      "twitter_personal": ""
+    },
     "website": "http://www.kennedy.senate.gov",
     "class": "Class III"
   },
@@ -526,6 +714,10 @@
     "address": "133 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5344",
     "email": "https://www.king.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenAngusKing",
+      "twitter_personal": ""
+    },
     "website": "http://www.king.senate.gov/",
     "class": "Class I"
   },
@@ -537,6 +729,10 @@
     "address": "425 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3244",
     "email": "http://www.klobuchar.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "amyklobuchar",
+      "twitter_personal": ""
+    },
     "website": "http://www.klobuchar.senate.gov/",
     "class": "Class I"
   },
@@ -548,6 +744,10 @@
     "address": "316 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5754",
     "email": "http://www.lankford.senate.gov/contact/email",
+    "social_handles": {
+      "twitter_professional": "SenatorLankford",
+      "twitter_personal": "jameslankford"
+    },
     "website": "http://www.lankford.senate.gov",
     "class": "Class III"
   },
@@ -559,6 +759,10 @@
     "address": "437 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4242",
     "email": "https://www.leahy.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenatorLeahy",
+      "twitter_personal": ""
+    },
     "website": "http://www.leahy.senate.gov/",
     "class": "Class III"
   },
@@ -570,6 +774,10 @@
     "address": "361A Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5444",
     "email": "https://www.lee.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "SenMikeLee",
+      "twitter_personal": ""
+    },
     "website": "http://www.lee.senate.gov/",
     "class": "Class III"
   },
@@ -581,6 +789,10 @@
     "address": "B40C Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6621",
     "email": "https://www.lujan.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenatorLujan",
+      "twitter_personal": "benraylujan"
+    },
     "website": "https://www.lujan.senate.gov",
     "class": "Class II"
   },
@@ -592,6 +804,10 @@
     "address": "G12 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3424",
     "email": "https://www.lummis.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenLummis",
+      "twitter_personal": "CynthiaMLummis"
+    },
     "website": "https://www.lummis.senate.gov",
     "class": "Class II"
   },
@@ -603,6 +819,10 @@
     "address": "306 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3954",
     "email": "http://www.manchin.senate.gov/public/index.cfm/contact-form",
+    "social_handles": {
+      "twitter_professional": "JoeManchinWV",
+      "twitter_personal": "Sen_JoeManchin"
+    },
     "website": "http://www.manchin.senate.gov/",
     "class": "Class I"
   },
@@ -614,6 +834,10 @@
     "address": "255 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2742",
     "email": "https://www.markey.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenMarkey",
+      "twitter_personal": "EdMarkey"
+    },
     "website": "http://www.markey.senate.gov",
     "class": "Class II"
   },
@@ -625,6 +849,10 @@
     "address": "B33 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4774",
     "email": "https://www.marshall.senate.gov",
+    "social_handles": {
+      "twitter_professional": "RepMarshal",
+      "twitter_personal": "RogerMarshallMD"
+    },
     "website": "https://www.marshall.senate.gov",
     "class": "Class II"
   },
@@ -636,6 +864,10 @@
     "address": "317 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2541",
     "email": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "social_handles": {
+      "twitter_professional": ["LeaderMcConnell", "McConnellPress"],
+      "twitter_personal": ""
+    },
     "website": "http://www.mcconnell.senate.gov/",
     "class": "Class II",
     "leadership_position": "Majority Leader"
@@ -648,6 +880,10 @@
     "address": "528 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4744",
     "email": "https://www.menendez.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenatorMenendez",
+      "twitter_personal": "BobMenendezNJ"
+    },
     "website": "http://www.menendez.senate.gov/",
     "class": "Class I"
   },
@@ -659,6 +895,10 @@
     "address": "313 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3753",
     "email": "http://www.merkley.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "SenJeffMerkley",
+      "twitter_personal": "JeffMerkley"
+    },
     "website": "http://www.merkley.senate.gov",
     "class": "Class II"
   },
@@ -670,6 +910,10 @@
     "address": "521 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6521",
     "email": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+    "social_handles": {
+      "twitter_professional": "JerryMoran",
+      "twitter_personal": ""
+    },
     "website": "http://www.moran.senate.gov",
     "class": "Class III"
   },
@@ -681,6 +925,10 @@
     "address": "522 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6665",
     "email": "https://www.murkowski.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "lisamurkowski",
+      "twitter_personal": "LisaForSenate"
+    },
     "website": "http://www.murkowski.senate.gov/",
     "class": "Class III"
   },
@@ -692,6 +940,10 @@
     "address": "136 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4041",
     "email": "http://www.murphy.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": ["ChrisMurphyCT", "SenMurphyOffice"],
+      "twitter_personal": ""
+    },
     "website": "http://www.murphy.senate.gov/",
     "class": "Class I"
   },
@@ -703,6 +955,10 @@
     "address": "154 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2621",
     "email": "http://www.murray.senate.gov/public/index.cfm/contactme",
+    "social_handles": {
+      "twitter_professional": "PattyMurray",
+      "twitter_personal": "MurrayCampaign"
+    },
     "website": "http://www.murray.senate.gov/",
     "class": "Class III",
     "leadership_position": "Assistant Democratic Leader"
@@ -715,6 +971,10 @@
     "address": "825 B&C Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3521",
     "email": "",
+    "social_handles": {
+      "twitter_professional": "ossoff",
+      "twitter_personal": ""
+    },
     "website": "/senators/117thCongress/ossoff-jon.htm",
     "class": "Class II"
   },
@@ -726,6 +986,10 @@
     "address": "B03 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3553",
     "email": "",
+    "social_handles": {
+      "twitter_professional": "SneAlexPadilla",
+      "twitter_personal": "AlexPadilla4CA"
+    },
     "website": "/senators/117thCongress/padilla-alex.htm",
     "class": "Class III"
   },
@@ -737,6 +1001,10 @@
     "address": "167 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4343",
     "email": "https://www.paul.senate.gov/connect/email-rand",
+    "social_handles": {
+      "twitter_professional": "SenRandPaul",
+      "twitter_personal": "RandPaul"
+    },
     "website": "http://www.paul.senate.gov",
     "class": "Class III"
   },
@@ -748,6 +1016,10 @@
     "address": "724 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6221",
     "email": "https://www.peters.senate.gov/contact/email-gary",
+    "social_handles": {
+      "twitter_professional": "SenGaryPeters",
+      "twitter_personal": "GaryPeters"
+    },
     "website": "http://www.peters.senate.gov",
     "class": "Class II"
   },
@@ -759,6 +1031,10 @@
     "address": "448 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3353",
     "email": "https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form",
+    "social_handles": {
+      "twitter_professional": ["senrobportman", "PortmanPress"],
+      "twitter_personal": "robportman"
+    },
     "website": "http://www.portman.senate.gov",
     "class": "Class III"
   },
@@ -770,6 +1046,10 @@
     "address": "728 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4642",
     "email": "https://www.reed.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": ["SenJackReed", "SenatorJackReed"],
+      "twitter_personal": ["Jackreed2020"]
+    },
     "website": "http://www.reed.senate.gov/",
     "class": "Class II"
   },
@@ -781,6 +1061,10 @@
     "address": "483 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2752",
     "email": "http://www.risch.senate.gov/public/index.cfm?p=Email",
+    "social_handles": {
+      "twitter_professional": "SenatorRisch",
+      "twitter_personal": "Risch4Idaho"
+    },
     "website": "http://www.risch.senate.gov",
     "class": "Class II"
   },
@@ -792,6 +1076,10 @@
     "address": "124 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5251",
     "email": "https://www.romney.senate.gov/contact-senator-romney",
+    "social_handles": {
+      "twitter_professional": "SenatorRomney",
+      "twitter_personal": "MittRomney"
+    },
     "website": "https://www.romney.senate.gov",
     "class": "Class I"
   },
@@ -803,6 +1091,10 @@
     "address": "144 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6244",
     "email": "https://www.rosen.senate.gov/contact_jacky",
+    "social_handles": {
+      "twitter_professional": "SenJackyRosen",
+      "twitter_personal": "RosenforNevada"
+    },
     "website": "https://www.rosen.senate.gov",
     "class": "Class I"
   },
@@ -814,6 +1106,10 @@
     "address": "502 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5842",
     "email": "https://www.rounds.senate.gov/contact/email-mike",
+    "social_handles": {
+      "twitter_professional": "SenatorRounds",
+      "twitter_personal": ["RoundsForSenate", "MikeSenetor"]
+    },
     "website": "http://www.rounds.senate.gov",
     "class": "Class II"
   },
@@ -825,6 +1121,10 @@
     "address": "284 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3041",
     "email": "http://www.rubio.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "marcorubio",
+      "twitter_personal": ["SenRubioPress"]
+    },
     "website": "http://www.rubio.senate.gov",
     "class": "Class III"
   },
@@ -836,6 +1136,10 @@
     "address": "332 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5141",
     "email": "http://www.sanders.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "",
+      "twitter_personal": "BernieSanders"
+    },
     "website": "http://www.sanders.senate.gov/",
     "class": "Class I"
   },
@@ -847,6 +1151,10 @@
     "address": "107 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4224",
     "email": "http://www.sasse.senate.gov/public/index.cfm/email-ben",
+    "social_handles": {
+      "twitter_professional": ["SenSasse", "TeamSasse"],
+      "twitter_personal": "BenSasse"
+    },
     "website": "http://www.sasse.senate.gov",
     "class": "Class II"
   },
@@ -858,6 +1166,10 @@
     "address": "722 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3934",
     "email": "https://www.schatz.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenBrianSchatz",
+      "twitter_personal": ["brianschatz", "SchatzforHawaii"]
+    },
     "website": "http://www.schatz.senate.gov",
     "class": "Class III"
   },
@@ -869,6 +1181,10 @@
     "address": "322 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6542",
     "email": "https://www.schumer.senate.gov/contact/email-chuck",
+    "social_handles": {
+      "twitter_professional": "SenSchumer",
+      "twitter_personal": ["chuckschumer"]
+    },
     "website": "http://www.schumer.senate.gov/",
     "class": "Class III",
     "leadership_position": "Democratic Leader"
@@ -881,6 +1197,10 @@
     "address": "716 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5274",
     "email": "https://www.rickscott.senate.gov/contact_rick",
+    "social_handles": {
+      "twitter_professional": "SenRickScott",
+      "twitter_personal": ["ScottForFlorida"]
+    },
     "website": "http://www.rickscott.senate.gov/",
     "class": "Class I"
   },
@@ -892,6 +1212,10 @@
     "address": "104 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6121",
     "email": "https://www.scott.senate.gov/contact/email-me",
+    "social_handles": {
+      "twitter_professional": "SenatorTimScott",
+      "twitter_personal": "votesimscott"
+    },
     "website": "http://www.scott.senate.gov/",
     "class": "Class III"
   },
@@ -903,6 +1227,10 @@
     "address": "506 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2841",
     "email": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+    "social_handles": {
+      "twitter_professional": "SenatorShaheen",
+      "twitter_personal": "JeanneShaheen"
+    },
     "website": "http://www.shaheen.senate.gov",
     "class": "Class II"
   },
@@ -914,6 +1242,10 @@
     "address": "304 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5744",
     "email": "https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby",
+    "social_handles": {
+      "twitter_professional": "SenShelby",
+      "twitter_personal": ""
+    },
     "website": "http://www.shelby.senate.gov/",
     "class": "Class III"
   },
@@ -925,6 +1257,10 @@
     "address": "317 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4521",
     "email": "https://www.sinema.senate.gov/contact-kyrsten",
+    "social_handles": {
+      "twitter_professional": ["SenatorSinema"],
+      "twitter_personal": "Kyrstensinema"
+    },
     "website": "https://www.sinema.senate.gov",
     "class": "Class I"
   },
@@ -936,6 +1272,10 @@
     "address": "720 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5641",
     "email": "https://www.smith.senate.gov/contact-tina",
+    "social_handles": {
+      "twitter_professional": "SenTinaSmith",
+      "twitter_personal": "TinaSmithMN"
+    },
     "website": "https://www.smith.senate.gov",
     "class": "Class II"
   },
@@ -947,6 +1287,10 @@
     "address": "731 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4822",
     "email": "https://www.stabenow.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenStabenow",
+      "twitter_personal": "Stabenow"
+    },
     "website": "http://www.stabenow.senate.gov/",
     "class": "Class I"
   },
@@ -958,6 +1302,10 @@
     "address": "302 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3004",
     "email": "https://www.sullivan.senate.gov/contact/email",
+    "social_handles": {
+      "twitter_professional": "SenDanSullivan",
+      "twitter_personal": "DanSullivan_AK"
+    },
     "website": "http://www.sullivan.senate.gov",
     "class": "Class II"
   },
@@ -969,6 +1317,10 @@
     "address": "311 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2644",
     "email": "https://www.tester.senate.gov/?p=email_senator",
+    "social_handles": {
+      "twitter_professional": "SenatorTester",
+      "twitter_personal": "JonTester"
+    },
     "website": "http://www.tester.senate.gov/",
     "class": "Class I"
   },
@@ -980,6 +1332,10 @@
     "address": "511 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2321",
     "email": "http://www.thune.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "SenJohnThune",
+      "twitter_personal": "JohnThune"
+    },
     "website": "http://www.thune.senate.gov/",
     "class": "Class III",
     "leadership_position": "Majority Whip"
@@ -992,6 +1348,10 @@
     "address": "113 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6342",
     "email": "https://www.tillis.senate.gov/public/index.cfm/email-me",
+    "social_handles": {
+      "twitter_professional": "SenThomTillis",
+      "twitter_personal": "ThomTillis"
+    },
     "website": "http://www.tillis.senate.gov",
     "class": "Class II"
   },
@@ -1003,6 +1363,10 @@
     "address": "248 Russell Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4254",
     "email": "https://www.toomey.senate.gov/?p=contact",
+    "social_handles": {
+      "twitter_professional": "SenToomey",
+      "twitter_personal": "PatToomey"
+    },
     "website": "http://www.toomey.senate.gov/",
     "class": "Class III"
   },
@@ -1014,6 +1378,10 @@
     "address": "B40A Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4124",
     "email": "https://www.tuberville.senate.gov",
+    "social_handles": {
+      "twitter_professional": "SenTuberville",
+      "twitter_personal": "TTuberville"
+    },
     "website": "https://www.tuberville.senate.gov",
     "class": "Class II"
   },
@@ -1025,6 +1393,10 @@
     "address": "110 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4654",
     "email": "http://www.vanhollen.senate.gov/contact/email",
+    "social_handles": {
+      "twitter_professional": "ChrisVanHollen",
+      "twitter_personal": "VanHollenForMD"
+    },
     "website": "http://www.vanhollen.senate.gov",
     "class": "Class III"
   },
@@ -1036,6 +1408,10 @@
     "address": "703 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2023",
     "email": "http://www.warner.senate.gov/public/index.cfm?p=Contact",
+    "social_handles": {
+      "twitter_professional": "MarkWarner",
+      "twitter_personal": "MarkWarnerVA"
+    },
     "website": "http://www.warner.senate.gov",
     "class": "Class II"
   },
@@ -1047,6 +1423,10 @@
     "address": "B40D Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-3643",
     "email": "",
+    "social_handles": {
+      "twitter_professional": "SenatorWarnock",
+      "twitter_personal": "ReverendWarnock"
+    },
     "website": "/senators/117thCongress/warnock-raphael.htm",
     "class": "Class III"
   },
@@ -1058,6 +1438,10 @@
     "address": "309 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-4543",
     "email": "https://www.warren.senate.gov/?p=email_senator",
+    "social_handles": {
+      "twitter_professional": "SenWarren",
+      "twitter_personal": "ewarren"
+    },
     "website": "http://www.warren.senate.gov",
     "class": "Class I"
   },
@@ -1069,6 +1453,10 @@
     "address": "530 Hart Senate Office Building Washington DC 20510",
     "phone": "(202) 224-2921",
     "email": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+    "social_handles": {
+      "twitter_professional": "SenWhitehouse",
+      "twitter_personal": "SheldonforRI"
+    },
     "website": "http://www.whitehouse.senate.gov/",
     "class": "Class I"
   },
@@ -1080,6 +1468,10 @@
     "address": "555 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-6253",
     "email": "https://www.wicker.senate.gov/public/index.cfm/contact",
+    "social_handles": {
+      "twitter_professional": "SenatorWicker",
+      "twitter_personal": "RogerWicker"
+    },
     "website": "http://www.wicker.senate.gov",
     "class": "Class I"
   },
@@ -1091,6 +1483,10 @@
     "address": "221 Dirksen Senate Office Building Washington DC 20510",
     "phone": "(202) 224-5244",
     "email": "https://www.wyden.senate.gov/contact/",
+    "social_handles": {
+      "twitter_professional": "RonWyden",
+      "twitter_personal": ["WydenPress", "WydenForOregon"]
+    },
     "website": "http://www.wyden.senate.gov/",
     "class": "Class III"
   },
@@ -1102,6 +1498,10 @@
     "address": "185 Dirksen Senate Office Building Washington DC\n      20510",
     "phone": "(202) 224-5623",
     "email": "https://www.young.senate.gov/contact",
+    "social_handles": {
+      "twitter_professional": "SenToddYoung",
+      "twitter_personal": "ToddYoungIN"
+    },
     "website": "http://www.young.senate.gov",
     "class": "Class III"
   }
