@@ -5,6 +5,7 @@ import tweetBundle from './data/sampleTweets.json'
 import senators from './data/senators.json'
 import house from './data/house.json'
 import TweetCard from './components/TweetCard/TweetCard'
+import SenateTable from './components/TweetCard/SenateTable/SenateTable'
 
 interface ITweet {
   author_id: string
@@ -39,6 +40,7 @@ function App() {
         />
         <button onClick={getLatestTweets}>Search</button>
       </div>
+      <SenateTable />
 
       {tweets.map((tweet: any) => {
         let date = tweet.created_at.split('_')
